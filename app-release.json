@@ -1,0 +1,9 @@
+{
+  "android": {
+    "latestVersionCode": 2,
+    "minimumSupportedVersionCode": 1,
+    "versionName": "1.0.1",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.passionlabs.axis",
+    "message": "Google sign-in is now more reliable, and Axis can remind you when future Play Store updates are ready."
+  }
+}
